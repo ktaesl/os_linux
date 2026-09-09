@@ -60,3 +60,27 @@ d             rwx        rwx
 Изменить владельца -   $ chown опции user1 file1
 Изменить группу - ; ch опции group1 file1
 
+**Лекция 3. 08.09.2026**
+Механизмы адресации
+LBA (Logical Block addresing контр
+
+Основная загрузочная область 
+MBR
+GPT 
+FAT File Allocation Table
+ReFS
+
+Типы файловых систем 
+Ext, Ext2, Ext3 или Extended Fileystem
+Ext4 журналируемая файловая система
+
+XFS 
+Btrfs B-tree File System
+
+Для MacOS своя файловая система
+
+Виртуальная файловая система VFS
+tmpfs
+procts
+
+В Linux файловая структура "дерево" Она стандартизирована FHS 
